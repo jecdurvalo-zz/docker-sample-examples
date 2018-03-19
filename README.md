@@ -2,6 +2,8 @@
 
 Exemplos simples de aplicaçes usando node, php, java e SGBD executados em containers;
 
+![alt tag](https://github.com/fiapsecdevops/docker-sample-examples/raw/master/content/img/machine.png]
+
 ## Criando uma instância para testes usando Docker
 
 Esse template foi criado para lançamento de uma instância na AWS utilizando Cloud Formation, esta instância "nasce" com o Docker Community instalado na versão 17 e com acesso configurado para um usuário local;
