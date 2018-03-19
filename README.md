@@ -2,7 +2,7 @@
 
 Exemplos simples de aplicaçes usando node, php, java e SGBD executados em containers;
 
-![alt tag](https://github.com/fiapsecdevops/docker-sample-examples/raw/master/img/machine.png]
+![alt tag](https://github.com/fiapsecdevops/docker-sample-examples/raw/master/img/machine.png)
 
 ## Criando uma instância para testes usando Docker
 
